@@ -1,4 +1,6 @@
 """
+--------- Link for the challenge: https://codeforces.com/problemset/problem/814/A -------
+
 A few years ago, Hitagi encountered a giant crab, who stole the whole of her body weight.
 Ever since, she tried to avoid contact with others, for fear that this secret might be noticed.
 
