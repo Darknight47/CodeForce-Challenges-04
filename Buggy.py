@@ -1,4 +1,6 @@
 """
+------------ Link for the challenge: https://codeforces.com/problemset/problem/246/A -------
+
 Little boy Valera studies an algorithm of sorting an integer array.
 After studying the theory, he went on to the practical tasks.
 As a result, he wrote a program that sorts an array of n integers a1, a2, ..., an in the non-decreasing order.
