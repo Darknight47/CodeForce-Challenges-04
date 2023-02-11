@@ -1,4 +1,6 @@
 """
+----------- Link for the challenge: https://codeforces.com/contest/1150/problem/B ------
+
 One day Alice was cleaning up her basement when she noticed something very curious:
 an infinite set of wooden pieces! Each piece was made of five square tiles, with four
 tiles adjacent to the fifth center tile:
