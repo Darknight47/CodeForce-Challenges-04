@@ -1,4 +1,6 @@
 """
+----------- Link for the challenge: https://codeforces.com/problemset/problem/1085/A----
+
 Polycarp loves ciphers. He has invented his own cipher called Right-Left.
 
 Right-Left cipher is used for strings. To encrypt the string s= s1 s2 … sn Polycarp uses the following algorithm:
